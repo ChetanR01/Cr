@@ -38,7 +38,6 @@ def startpt():
     t.forward(170)
 
 def dot():
-    t.speed(2)
     t.pencolor("white")
     t.right(108)
     t.forward(5)
